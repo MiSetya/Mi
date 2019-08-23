@@ -50,8 +50,6 @@ echo
 sleep 2
 echo ""
 echo $i"============================="
-echo $me"00.Install bahan";
-echo $i"============================="
 echo ""
 echo $cy"1.DarkFB NEW";
 sleep 1
