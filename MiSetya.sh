@@ -157,3 +157,4 @@ python2 depes.py
 *) echo "Pilihan yang anda cari tidak tersedia. Cari di tempat lain"
 esac
 done
+done
