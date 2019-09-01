@@ -67,7 +67,7 @@ sh install.sh
 ;;
 
 #grup wa
-4) echo $pu"Ini link grup cok : https://chat.whatsapp.com/C6t2zKR0Rf3BhbWoEx17yV"
+4) echo $pu"Mau join grup? Chat WA gua aja tu nomor diatas"
 
 ;;
 
