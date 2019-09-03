@@ -71,4 +71,3 @@ echo $pu"║██████║█████████║" $cy"GUNAKAN TOO
 echo
 sleep 5
 sh run.sh
-fi
