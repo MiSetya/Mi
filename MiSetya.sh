@@ -35,7 +35,7 @@ echo $pu"║" $pu"╔═══•ೋೋ•═══╗"
 echo $pu"║" $cy"3.Subscribe Youtube MiSetya"
 echo $pu"║" $pu"╚═══•ೋೋ•═══╝"
 echo $pu"║"
-echo $pu"╚═══Masukan Nama Anda═══"
+echo $pu"╚═══Masukan Pilihan═══"
 read -p "║>> " pil
 
 if [ $pil = '1' ]
