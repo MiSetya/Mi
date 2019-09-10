@@ -44,7 +44,7 @@ sh user.sh
 fi
 if [ $pil = '2' ]
 then
-
+xdg-open https://bercara.com/QKNrZStZ4
 fi
 if [ $pil = '3' ]
 then
