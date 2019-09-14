@@ -9,3 +9,6 @@ pip2 install requests
 pip2 install mechanize
 pkg install ruby
 gem install lolcat
+echo "Penginstalan bahan selesai"
+sleep 4
+sh MiSetya.sh
